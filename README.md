@@ -8,8 +8,7 @@ The dataset attached contains information on the user profiles and viewer transa
 BrightTV.
 
 Databricks Coding: 
-
 https://dbc-150601a6-e27f.cloud.databricks.com/editor/queries/924637217713574?contextId=workspace&o=7474648828461245
 
 Bright tv case study presentation: 
-
+https://github.com/mbalikambule-ui/Bright-TV-Case-Study-/blob/main/Bright%20Tv%20Presentation.pptx
